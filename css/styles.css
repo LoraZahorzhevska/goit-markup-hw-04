@@ -339,7 +339,7 @@ img {
 }
 
 .team-section {
-  color: var(--team-bg);
+  background-color: var(--team-bg);
 }
 
 .team .title {
@@ -490,7 +490,7 @@ img {
 
 .clients-icons-link:hover,
 .clients-icons-link:focus {
-  border: solid var(--accent-color);
+  border: 1px solid var(--accent-color);
 }
 
 .clients-icons-link:hover .clients-icons-svg,
